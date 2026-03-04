@@ -12,3 +12,15 @@ Depending on the project, tools may include:
 - Design or planning tools
 - PDF documentation tools
 - Image editing/viewing software
+
+# Floor plan
+<img src="/floor plan.jpg">
+
+# Design
+<img src="/plan.jpg">
+
+# Distribution of Switches
+<img src="/distribution switches.jpeg">
+
+# Wifi Points
+<img src="/wifi access point.jpeg">
