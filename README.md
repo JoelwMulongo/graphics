@@ -14,7 +14,7 @@ Depending on the project, tools may include:
 - Image editing/viewing software
 
 # Floor plan
-<img src="/floor plan.jpg">
+<img src="/floor plan .jpg">
 
 # Design
 <img src="/plan.jpg">
